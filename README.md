@@ -16,3 +16,5 @@
 - Abra o terminal e digite **_npm install --save_**
 - Espere instalar e rode o comando **_npm run dev_**
 
+
+
