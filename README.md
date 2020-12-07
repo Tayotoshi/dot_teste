@@ -13,6 +13,6 @@
 
 ## Como rodar o projeto
 - Abra o projeto em um editor de texto (Foi utilizado o VSCode na criação do projeto).
-- Abra o terminal e digite *npm install --save*
-- Espere instalar e rode o comando *npm run dev*
+- Abra o terminal e digite **_npm install --save_**
+- Espere instalar e rode o comando **_npm run dev_**
 
