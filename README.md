@@ -1,6 +1,6 @@
 # Teste Dot Front-End
 
-### Esse é um projeto feito para o teste de Desenvovledor Júnior Front-end da Dot Digital Group.
+### Esse é um projeto feito para o teste de Desenvovledor Júnior Front-End da Dot Digital Group.
 
 ## Tecnologias Utilizadas
 - ES6
@@ -15,6 +15,8 @@
 - Abra o projeto em um editor de texto (Foi utilizado o VSCode na criação do projeto).
 - Abra o terminal e digite **_npm install --save_**
 - Espere instalar e rode o comando **_npm run dev_**
+
+Ao executar os passos acima, o gulp juntamente com o babel, ira transpilar o código de ES6 para ES5 e recriar um novo projeto chamado app_es5, com todos os arquivos CSS e JS minificados e apenas um arquivo, além de também repassar todas as fontes e imagens para esse novo projeto, podendo assim rodar em navegadores mais antigos que ainda não suportam EC6.
 
 
 
