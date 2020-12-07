@@ -2,7 +2,7 @@
 
 ### Esse é um projeto feito para o teste de Desenvovledor Júnior Front-end da Dot Digital Group
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - ES6
 - HTML5
 - CSS3
