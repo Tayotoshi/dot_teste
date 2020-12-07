@@ -1,3 +1,3 @@
-# Dot Front-End
+# Teste Dot Front-End
 
-## Esse é um projeto feito para o teste de Desenvovledor Júnior Front-end da Dot Digital Group##
+### Esse é um projeto feito para o teste de Desenvovledor Júnior Front-end da Dot Digital Group
