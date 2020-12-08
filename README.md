@@ -1,6 +1,6 @@
 # Teste Dot Front-End
 
-## Esse é um projeto feito para o teste de Desenvoledor Júnior Front-End da Dot Digital Group.
+## Esse é um projeto feito para o teste de Desenvolvedor Júnior Front-End da Dot Digital Group.
 
 ## Tecnologias Utilizadas
 - ES6
